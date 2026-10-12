@@ -1,7 +1,7 @@
 package com.postapi.common.security;
 
-import com.postapi.user.entity.User;
-import com.postapi.user.repository.UserRepository;
+import com.postapi.domain.user.entity.User;
+import com.postapi.domain.user.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

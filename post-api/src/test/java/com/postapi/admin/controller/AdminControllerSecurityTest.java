@@ -1,6 +1,6 @@
 package com.postapi.admin.controller;
 
-import com.postapi.admin.service.AdminService;
+import com.postapi.domain.admin.service.AdminService;
 import com.postapi.common.dto.PageResponse;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

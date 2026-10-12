@@ -1,7 +1,7 @@
 package com.postapi.common.security;
 
-import com.postapi.user.entity.User;
-import com.postapi.user.entity.UserRole;
+import com.postapi.domain.user.entity.User;
+import com.postapi.domain.user.entity.UserRole;
 import lombok.Getter;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
